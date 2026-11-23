@@ -1,0 +1,19 @@
+# game data and outputs: never commit
+Brave Fencer Musashi*/
+build/
+dist/
+work/
+release/
+*.bin
+*.cue
+*.iso
+*.xdelta
+*.wav
+*.mcd
+*.sstate
+tools/pcsx-redux/
+tools/bios/
+__pycache__/
+.DS_Store
+docs-skill-gotchas.txt
+bios/
